@@ -1,3 +1,3 @@
 # COVID Cases per capita
 
-![image](cases_per_capita.png)
+![image](cases_oer_capita.png)
